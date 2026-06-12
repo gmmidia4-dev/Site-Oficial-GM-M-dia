@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SEU-DOMINIO.com.br/sitemap.xml
+Sitemap: https://gmmidiadigitaloficial-one.vercel.app/sitemap.xml
